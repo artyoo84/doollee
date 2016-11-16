@@ -55,7 +55,7 @@
 		}else{
 %>
 <script type="text/javascript">
-alert("오ㅓ류!");
+alert("오류!");
 	location.back();
 </script>
 <%
